@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityLife</string>
+    <string name="a_activity_name">Activity A</string>
+    <string name="b_activity_name">Activity B</string>
+</resources>
